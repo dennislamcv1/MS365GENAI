@@ -1,5 +1,5 @@
 # MS365GENAI
-## Microsoft 365 with Generative AI Professional Certificate
+## Microsoft 365 with Generative AI Professional Certificate (4 course series)
 
 Using Microsoft 365 applications with Copilot empowers you to save time, streamline workflows, and improve collaboration. According to Microsoft's Work Trend Index, 70% of Copilot users reported being more productive, and 68% said it improved the quality of their work.¹ Copilot uses AI to automate routine tasks, provide insights, and enhance decision-making across Microsoft 365 apps.
 
